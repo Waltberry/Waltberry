@@ -1,16 +1,67 @@
-## Hi there 👋
+<img src="your-image-url" alt="Onyero Walter Ofuzim's image" style="width:100%;"/>
 
-<!--
-**Waltberry/Waltberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Whoami ?
 
-Here are some ideas to get you started:
+I'm Onyero Walter Ofuzim 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **building scalable web applications** and **enhancing my cybersecurity skills**.
+- 🌱 I’m currently learning **Machine Learning** and **Advanced Node.js**.
+- 👯 I’m looking to collaborate on **open-source projects** and **innovative web development projects**.
+- 🤔 I’m looking for help with **AI-driven security solutions**.
+- 💬 Ask me about **full-stack development, cybersecurity, and DevOps practices**.
+- 📫 How to reach me: [onyero.walter@example.com](mailto:onyero.walter@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: **I'm a tech enthusiast who loves solving puzzles and exploring new technologies**.
+
+### Connect with me:
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo" width="30">](https://github.com/onyero123)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" width="30">](https://linkedin.com/in/onyero123)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter logo" width="30">](https://twitter.com/onyero123)
+
+### Languages:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frameworks & Libraries:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Tools of Trade:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Would Love to Learn:
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Additional:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onyero123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyero123&layout=compact&theme=radical)
+
+### GitHub Profile Summary Cards:
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onyero123&theme=vue)](https://github.com/onyero123)
+[![GitHub Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onyero123&theme=vue)](https://github.com/onyero123)
+[![GitHub Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onyero123&theme=vue)](https://github.com/onyero123)
+[![GitHub Streak Card](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=onyero123&theme=vue)](https://github.com/onyero123)
+
+### Wakatime Stats:
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=onyero123&layout=compact&theme=radical)
+
+### LeetCode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/greyhatguy007)
