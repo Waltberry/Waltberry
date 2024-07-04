@@ -7,7 +7,7 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 
 [![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
 
-- 🔭 I’m working on **Research at the University of Calgary focusing on machine learning and System Identification to monitor the physics of Grid Flow Batteries and Hydrogen Storage Cells**.
+- 🔭 I’m working on **Research at the University of Calgary focusing on machine learning and System Identification to monitor the physics behind the degradation of Grid Flow Batteries and Hydrogen Storage Cells**.
 - 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **AI-driven solutions**.
