@@ -65,6 +65,8 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 ### Wakatime Stats:
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waltberry&layout=compact&theme=radical)
 
-
 ### LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/MadWalt?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/MadWalt/)
+
+### Exercism Stats:
+[![Exercism Stats](https://exercism-stats.com/api/profiles/Waltberry)](https://exercism.org/profiles/MadWalt)
