@@ -6,7 +6,7 @@
 I'm Onyero Walter Ofuzim 🧑‍💻
 
 - 🔭 I’m working on **Research at the University of Calgary Using ML and System Identification**.
-- 🌱 I’m currently learning **Machine Learning** and **Software Engineering Skills**.
+- 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **AI-driven solutions**.
 - 💬 Ask me about **ML, Control Systems Engineering, and Robotics**.
