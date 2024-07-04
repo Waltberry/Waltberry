@@ -18,7 +18,11 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" width="100">](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,mysql,matlab,r,c&theme=light" />
+  </a>
+</p>
 
 ### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
