@@ -5,6 +5,8 @@
 
 I'm Onyero Walter Ofuzim 🧑‍💻
 
+CV : [![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
+
 - 🔭 I’m working on **Research at the University of Calgary Using ML and System Identification**.
 - 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
 - 👯 I’m looking to collaborate on **open-source projects**.
@@ -65,3 +67,4 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 
 ### LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/MadWalt?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/MadWalt/)
+
