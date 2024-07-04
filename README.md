@@ -60,10 +60,11 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waltberry&theme=vue)](https://github.com/Waltberry)
 [![GitHub Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waltberry&theme=vue)](https://github.com/Waltberry)
 [![GitHub Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waltberry&theme=vue)](https://github.com/Waltberry)
-[![GitHub Streak Card](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=Waltberry&theme=vue)](https://github.com/Waltberry)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Waltberry&theme=vue)](https://github.com/Waltberry)
 
 ### Wakatime Stats:
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waltberry&layout=compact&theme=radical)
+
 
 ### LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/MadWalt?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/MadWalt/)
