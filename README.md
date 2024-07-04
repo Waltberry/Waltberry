@@ -15,7 +15,6 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 - ⚡ Fun fact: **I'm a tech enthusiast who loves solving puzzles and exploring new technologies**.
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo" width="100">](https://github.com/Waltberry)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" width="100">](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
 
 ### Languages:
