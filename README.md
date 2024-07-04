@@ -7,7 +7,7 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 
 - 🔭 I’m working on **Research at the University of Calgary Using ML and System Identification**.
 - 🌱 I’m currently learning **Machine Learning** and **Software Engineering Skills**.
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative web development projects**.
+- 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **AI-driven solutions**.
 - 💬 Ask me about **ML, Control Systems Engineering, and Robotics**.
 - 📫 How to reach me: [onyero.walter@example.com](mailto:waltofuzim@gmail.com)
@@ -43,6 +43,7 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ### Would Love to Learn:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
