@@ -5,7 +5,7 @@
 
 I'm Onyero Walter Ofuzim 🧑‍💻
 
-CV : [![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
+[![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
 
 - 🔭 I’m working on **Research at the University of Calgary Using ML and System Identification**.
 - 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
