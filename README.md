@@ -10,7 +10,7 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **AI-driven solutions**.
 - 💬 Ask me about **ML, Control Systems Engineering, and Robotics**.
-- 📫 How to reach me: [onyero.walter@example.com](mailto:waltofuzim@gmail.com)
+- 📫 How to reach me: [onyero.ofuzim@ucalgary.ca](mailto:onyero.ofuzim@ucalgary.ca)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I'm a tech enthusiast who loves solving puzzles and exploring new technologies**.
 
