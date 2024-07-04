@@ -1,4 +1,4 @@
-<img src="https://github.com/Waltberry/Waltberry/assets/63509339/2cc54779-095e-45cc-b5ce-49f923994659" alt="Code typing concept illustration" style="width:50%;"/>
+<img src="https://github.com/Waltberry/Waltberry/assets/63509339/2cc54779-095e-45cc-b5ce-49f923994659" alt="Code typing concept illustration" style="max-width:100%; height:auto;"/>
 <a href="https://www.freepik.com/free-vector/code-typing-concept-illustration_10259340.htm#fromView=search&page=1&position=15&uuid=1099da59-1dbb-4560-ac6e-8753878cf749">Image by storyset on Freepik</a>
 
 # Whoami?
