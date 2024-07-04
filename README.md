@@ -18,11 +18,16 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" width="100">](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
 
 ### Languages:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,mysql,matlab,r,c&theme=light" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,17 +53,17 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onyero123&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyero123&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waltberry&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waltberry&layout=compact&theme=radical)
 
 ### GitHub Profile Summary Cards:
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onyero123&theme=vue)](https://github.com/onyero123)
-[![GitHub Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onyero123&theme=vue)](https://github.com/onyero123)
-[![GitHub Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onyero123&theme=vue)](https://github.com/onyero123)
-[![GitHub Streak Card](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=onyero123&theme=vue)](https://github.com/onyero123)
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waltberry&theme=vue)](https://github.com/Waltberry)
+[![GitHub Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waltberry&theme=vue)](https://github.com/Waltberry)
+[![GitHub Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waltberry&theme=vue)](https://github.com/Waltberry)
+[![GitHub Streak Card](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=Waltberry&theme=vue)](https://github.com/Waltberry)
 
 ### Wakatime Stats:
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=onyero123&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waltberry&layout=compact&theme=radical)
 
 ### LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/greyhatguy007)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/MadWalt/)
