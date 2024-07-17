@@ -71,6 +71,9 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 ### LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/MadWalt?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/MadWalt/)
 
-### HackerRank Stats:
-![HackerRank Stats](https://i.imgur.com/example.png)
+### HackerRank Profile:
+[Visit my HackerRank profile](https://www.hackerrank.com/profile/waltofuzim)
+
+### HackerRank Badge:
+[View my HackerRank Badge](https://hackerrank-badge.herokuapp.com/Waltberry)
 
