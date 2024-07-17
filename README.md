@@ -75,5 +75,6 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 [Visit my HackerRank profile](https://www.hackerrank.com/profile/waltofuzim)
 
 ### HackerRank Badge:
-[View my HackerRank Badge](https://hackerrank-badge.herokuapp.com/Waltberry)
+[![HackerRank Badge](https://path_to_your_image.png)](https://hackerrank-badge.herokuapp.com/Waltberry)
+
 
