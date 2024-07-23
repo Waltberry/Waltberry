@@ -7,10 +7,7 @@
 <h3 align="center">Engineer (MSC - Electrical and Software Engineering @ the University of Calgary, Alberta)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waltberry&label=Profile%20views&color=0e75b6&style=flat" alt="waltberry" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltberry" alt="waltberry" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/herr_afro_geek" target="blank"><img src="https://img.shields.io/twitter/follow/herr_afro_geek?logo=twitter&style=for-the-badge" alt="herr_afro_geek" /></a> </p>
 
 - 🔭 I’m working on **Research at the University of Calgary focusing on machine learning and System Identification to monitor the physics behind the degradation of Grid Flow Batteries and Hydrogen Storage Cells**.
 - 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
@@ -32,7 +29,7 @@
 <a href="https://medium.com/@ofuzimonyerowalterwolfgang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ofuzimonyerowalterwolfgang" height="30" width="40" /></a>
 </p>
 
-### Languages:
+<h3 align="left">Languages:</h3>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=red)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,7 +41,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks & Libraries:
+<h3 align="left">Frameworks & Libraries:</h3>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -63,41 +60,25 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Tools:
+<h3 align="left">Tools:</h3> 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
 
-### Would Love to Learn:
+<h3 align="left">Would Love to Learn:</h3>  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Additional:
+<h3 align="left">Additional:</h3>  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltberry&show_icons=true&locale=en&layout=compact" alt="waltberry" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltberry&show_icons=true&locale=en" alt="waltberry" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltberry&show_icons=true&locale=en&layout=pie&theme=vue" alt="waltberry" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltberry&show_icons=true&locale=en&theme=vue" alt="waltberry" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltberry&" alt="waltberry" /></p>
-
-
-- 🔭 I’m working on **Research at the University of Calgary focusing on machine learning and System Identification to monitor the physics behind the degradation of Grid Flow Batteries and Hydrogen Storage Cells**.
-- 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 🤔 I’m looking for help with **AI-driven solutions**.
-- 💬 Ask me about **ML, Control Systems Engineering, and Robotics**.
-- 📫 How to reach me: [onyero.ofuzim@ucalgary.ca](mailto:onyero.ofuzim@ucalgary.ca)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: **I'm a tech enthusiast who loves solving puzzles and exploring new technologies**.
-
-### Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" width="100">](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
-
 
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waltberry&show_icons=true&theme=vue)
