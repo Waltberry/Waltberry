@@ -1,13 +1,9 @@
 <img src="https://github.com/Waltberry/Waltberry/assets/63509339/2cc54779-095e-45cc-b5ce-49f923994659" alt="Code typing concept illustration" style="max-width:100%; height:auto;"/>
 <a href="https://www.freepik.com/free-vector/code-typing-concept-illustration_10259340.htm#fromView=search&page=1&position=15&uuid=1099da59-1dbb-4560-ac6e-8753878cf749">Image by storyset on Freepik</a>
 
-# Whoami?
-
-I'm Onyero Walter Ofuzim 🧑‍💻
-
 [![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
 
-<h1 align="center">Hi 👋, I'm I'm Onyero Walter Ofuzim</h1>
+<h1 align="center">Hi 👋, I'm Onyero Walter Ofuzim</h1>
 <h3 align="center">Engineer (MSC - Electrical and Software Engineering @ the University of Calgary, Alberta)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waltberry&label=Profile%20views&color=0e75b6&style=flat" alt="waltberry" /> </p>
@@ -35,30 +31,6 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 <a href="https://codesandbox.com/https://codesandbox.io/u/walt_of" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/walt_of" height="30" width="40" /></a>
 <a href="https://medium.com/@ofuzimonyerowalterwolfgang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ofuzimonyerowalterwolfgang" height="30" width="40" /></a>
 </p>
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" width="100">](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltberry&show_icons=true&locale=en&layout=compact" alt="waltberry" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltberry&show_icons=true&locale=en" alt="waltberry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltberry&" alt="waltberry" /></p>
-
-
-- 🔭 I’m working on **Research at the University of Calgary focusing on machine learning and System Identification to monitor the physics behind the degradation of Grid Flow Batteries and Hydrogen Storage Cells**.
-- 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 🤔 I’m looking for help with **AI-driven solutions**.
-- 💬 Ask me about **ML, Control Systems Engineering, and Robotics**.
-- 📫 How to reach me: [onyero.ofuzim@ucalgary.ca](mailto:onyero.ofuzim@ucalgary.ca)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: **I'm a tech enthusiast who loves solving puzzles and exploring new technologies**.
-
-### Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" width="100">](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -106,6 +78,26 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 ### Additional:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltberry&show_icons=true&locale=en&layout=compact" alt="waltberry" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltberry&show_icons=true&locale=en" alt="waltberry" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltberry&" alt="waltberry" /></p>
+
+
+- 🔭 I’m working on **Research at the University of Calgary focusing on machine learning and System Identification to monitor the physics behind the degradation of Grid Flow Batteries and Hydrogen Storage Cells**.
+- 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
+- 👯 I’m looking to collaborate on **open-source projects**.
+- 🤔 I’m looking for help with **AI-driven solutions**.
+- 💬 Ask me about **ML, Control Systems Engineering, and Robotics**.
+- 📫 How to reach me: [onyero.ofuzim@ucalgary.ca](mailto:onyero.ofuzim@ucalgary.ca)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: **I'm a tech enthusiast who loves solving puzzles and exploring new technologies**.
+
+### Connect with me:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" width="100">](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
+
 
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waltberry&show_icons=true&theme=vue)
