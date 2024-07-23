@@ -67,8 +67,8 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waltberry&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waltberry&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waltberry&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waltberry&layout=compact&theme=vue)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waltberry&repo=github-readme-stats)](https://github.com/Waltberry/github-readme-stats)
 
 ### GitHub Profile Summary Cards:
