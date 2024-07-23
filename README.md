@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltberry" alt="waltberry" /></a> </p>
 
 - 🔭 I’m working on **Research at the University of Calgary focusing on machine learning and System Identification to monitor the physics behind the degradation of Grid Flow Batteries and Hydrogen Storage Cells**.
-- 🌱 I’m currently learning **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
+- 🌱 I’m currently learning **Software Testing**, **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **AI-driven solutions**.
 - 💬 Ask me about **ML, Control Systems Engineering, and Robotics**.
