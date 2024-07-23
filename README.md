@@ -69,7 +69,7 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waltberry&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waltberry&layout=pie&theme=vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waltberry&repo=github-readme-stats)](https://github.com/Waltberry/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waltberry&repo=github-readme-stats)
 
 ### GitHub Profile Summary Cards:
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waltberry&theme=vue)](https://github.com/Waltberry)
