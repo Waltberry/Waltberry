@@ -1,6 +1,7 @@
 <img src="https://github.com/Waltberry/Waltberry/assets/63509339/2cc54779-095e-45cc-b5ce-49f923994659" alt="Code typing concept illustration" style="max-width:100%; height:auto;"/>
 <a href="https://www.freepik.com/free-vector/code-typing-concept-illustration_10259340.htm#fromView=search&page=1&position=15&uuid=1099da59-1dbb-4560-ac6e-8753878cf749">Image by storyset on Freepik</a>
 
+
 [![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
 
 <h1 align="center">Hi 👋, I'm Onyero Walter Ofuzim</h1>
@@ -16,8 +17,6 @@
 - 💬 Ask me about **ML, Control Systems Engineering, and Robotics**.
 - 📫 How to reach me: [onyero.ofuzim@ucalgary.ca](mailto:onyero.ofuzim@ucalgary.ca)
 - 😄 Pronouns: He/Him
-- 👨‍💻 All of my projects are available at [https://github.com/Waltberry?tab=repositories](https://github.com/Waltberry?tab=repositories)
-- 📄 Know about my experiences [https://github.com/Waltberry/CV](https://github.com/Waltberry/CV)
 - ⚡ Fun fact **I'm a tech enthusiast who loves solving puzzles and exploring new technologies.**
 
 <h3 align="left">Connect with me:</h3>
@@ -76,16 +75,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### GitHub Profile Summary Cards:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltberry&show_icons=true&locale=en&layout=pie&theme=vue" alt="waltberry" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltberry&show_icons=true&locale=en&theme=vue" alt="waltberry" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltberry&" alt="waltberry" /></p>
 
-### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waltberry&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waltberry&layout=pie&theme=vue)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waltberry&repo=github-readme-stats)
-
-### GitHub Profile Summary Cards:
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waltberry&theme=vue)](https://github.com/Waltberry)
 [![GitHub Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waltberry&theme=vue)](https://github.com/Waltberry)
 [![GitHub Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waltberry&theme=vue)](https://github.com/Waltberry)
