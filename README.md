@@ -19,11 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/waltberry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/waltberry" height="30" width="40" /></a>
 <a href="https://twitter.com/herr_afro_geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herr_afro_geek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/walt_of" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/walt_of" height="30" width="40" /></a>
-<a href="https://medium.com/@ofuzimonyerowalterwolfgang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ofuzimonyerowalterwolfgang" height="30" width="40" /></a>
 </p>
 
 ### Languages:
