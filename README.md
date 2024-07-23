@@ -68,8 +68,7 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waltberry&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waltberry&layout=compact&theme=vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waltberry&repo=github-readme-stats)](https://github.com/Waltberry/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waltberry&layout=pie&theme=vue)
 
 ### GitHub Profile Summary Cards:
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waltberry&theme=vue)](https://github.com/Waltberry)
@@ -78,7 +77,7 @@ I'm Onyero Walter Ofuzim 🧑‍💻
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Waltberry&theme=vue)](https://github.com/Waltberry)
 
 ### Wakatime Stats:
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waltberry&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waltberry&layout=compact&theme=vue)
 
 ### LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/MadWalt?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/MadWalt/)
