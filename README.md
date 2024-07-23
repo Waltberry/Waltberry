@@ -5,7 +5,7 @@
 [![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
 
 <h1 align="center">Hi 👋, I'm Onyero Walter Ofuzim</h1>
-<h3 align="center">Engineer (MSC - Electrical and Software Engineering @ the University of Calgary, Alberta)</h3>
+<h3 align="center">Engineer (MSC - Electrical and Software Engineering @ The University of Calgary, Alberta)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waltberry&label=Profile%20views&color=0e75b6&style=flat" alt="waltberry" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltberry" alt="waltberry" /></a> </p>
@@ -83,7 +83,6 @@
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waltberry&theme=vue)](https://github.com/Waltberry)
 [![GitHub Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waltberry&theme=vue)](https://github.com/Waltberry)
 [![GitHub Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waltberry&theme=vue)](https://github.com/Waltberry)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Waltberry&theme=vue)](https://github.com/Waltberry)
 
 ### Wakatime Stats:
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waltberry&layout=pie&theme=vue)
