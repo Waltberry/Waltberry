@@ -13,7 +13,6 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=System Identification;Control Systems;Machine+Learning;Artificial+Intelligence" width="auto" height="35"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=waltberry&label=Profile%20views&color=0e75b6&style=flat" alt="waltberry" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltberry" alt="waltberry" /></a> </p>
 
 - 🔭 I’m working on **Research at the University of Calgary focusing on Integrating Physics-based Machine Learning and System Identification for Monitoring Degradation of Grid Flow Batteries and Hydrogen Storage Cells**.
@@ -89,6 +88,11 @@
 
 ### Wakatime Stats:
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waltberry&layout=pie&theme=vue)
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=waltberry&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
