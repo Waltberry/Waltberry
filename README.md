@@ -1,14 +1,19 @@
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Onyero+Walter+Ofuzim;Electrical+/+Software+Engineer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Onyero+Walter+Ofuzim;+Electrical/Software+Engineer" width="auto" height="35"/>
+</p>
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
 </p>
 
 [![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
 
-<h1 align="center">Hi 👋, I'm Onyero Walter Ofuzim</h1>
-<h3 align="center">Engineer (MSC - Electrical and Software Engineering @ The University of Calgary, Alberta)</h3>
+<h3 align="center">My Interests</h3>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Sysetem Identification;Control Systems;Machine+Learning;Artificial+Intelligence" width="auto" height="35"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waltberry&label=Profile%20views&color=0e75b6&style=flat" alt="waltberry" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltberry" alt="waltberry" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=waltberry&label=Profile%20views&color=0e75b6&style=flat" alt="waltberry" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltberry" alt="waltberry" /></a> </p>
 
 - 🔭 I’m working on **Research at the University of Calgary focusing on Integrating Physics-based Machine Learning and System Identification for Monitoring Degradation of Grid Flow Batteries and Hydrogen Storage Cells**.
 - 🌱 I’m currently learning **Software Testing**, **Machine Learning**, **Control Systems Engineering** and **Sysetem Identification**.
@@ -19,8 +24,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact **I'm a tech enthusiast who loves solving puzzles and exploring new technologies.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/herr_afro_geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herr_afro_geek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/" height="30" width="40" /></a>
 </p>
