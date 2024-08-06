@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Onyero+Walter+Ofuzim;Electrical/Software+Engineer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Onyero+Walter+Ofuzim;Electrical/Software+ENG" width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
@@ -10,7 +10,7 @@
 <h3 align="center">My Interests</h3>
 <p align="center">
 
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Sysetem Identification;Control Systems Engineering;Machine+Learning;Artificial+Intelligence" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=System Identification;Control Systems Engineering;Machine+Learning;Artificial+Intelligence" width="auto" height="35"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waltberry&label=Profile%20views&color=0e75b6&style=flat" alt="waltberry" /> </p>
