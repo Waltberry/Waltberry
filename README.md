@@ -5,7 +5,7 @@
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
 </p>
 
-[![CV](https://img.shields.io/badge/CV-Click_here-blue)](https://github.com/Waltberry/CV/blob/main/README.md)
+[![CV](https://img.shields.io/badge/CV-Click_here-blue)]([https://github.com/Waltberry/CV/blob/main/README.md](https://github.com/Waltberry/onyero-walter-ofuzim/blob/main/frontend/public/cv/Onyero_Walter_Ofuzim_CV.pdf))
 
 <h3 align="center">My Interests</h3>
 <p align="center">
